@@ -1,0 +1,62 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7453125654529874/3036100607",
+			"native": "ca-app-pub-7453125654529874/8096855597",
+			"interstitial": "ca-app-pub-7453125654529874/4327456388"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1355917-2",
+			"native": "R-M-1355917-3",
+			"interstitial": "R-M-1355917-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.nightsgame.tips",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+	"GuideContent": [{
+			"title": "Five Nights at Freddy's",
+			"description": "Fans hungry for fresh Five Nights at Freddy's lore can sink their teeth into this massive guidebook packed with mythology, gameplay, and secrets to help unwind the twisted mysteries lurking behind the smiling face of Fazbear Entertainment. Delving into each game, players can map the animatronics' paths, learn how timed elements of the games work, and discover how to trigger unique events. Special sections throughout highlight FNAF fans' most talked-about topics, from the alternate endings in Help Wanted and Curse of Dreadbear, to the new technology introduced in Fazbear Frights, "
+		},
+		{
+			"title": "Media List",
+			"description": "The book is the same like the The Freddy Files books, except it was upgraded with new information, guides, and strategies related to the latest media like Help Wanted, Curse of Dreadbear, Special Delivery, and the Fazbear Frights series, along with other updated information. "
+		},
+		{
+			"title": "Games",
+			"description": "Five Nights  Freddy's - Pages 4 through 13Five Nights at Freddy's 2 - Pages 14 through 27 Five Nights at Freddy's 3 - Pages 28 through 4   Five Nights at Freddy's 4 - Pages 44 through Five Nights at Freddy's: Sister Location - Pages 56 through 71Freddy Fazbear's Pizzeria Simulator - Pages 72 through 93Ultimate Custom Night - Pages 94 through 113 Five Nights at Freddy's: Help Wanted - Pages 114 through 143 "
+		},
+		{
+			"title": "Guide  ",
+			"description": "Fans won't want to miss this ultimate guide to Five Nights at Freddy’s -- bursting with theories, lore, and insights from the games, books, and more!This all-encompassing guidebook concentrates material from The Freddy Files (Updated Edition) and adds over 100 pages of new content exploring Help Wanted, Curse of Dreadbear, Fazbear Frights, the novel trilogy, and more!Fans hungry for fresh Five Nights at Freddy's lore can sink their teeth into this massive guidebook packed with mythology, gameplay, and secrets to help unwind "
+		},
+		{
+			"title": "Survive the nights",
+			"description": "The Nintendo Switch version allows you to select Cheats in the main menu. With these, you can choose whether or not to have Unlimited Power, Fast Nights, or Radar Map turned on. "
+		}
+	]
