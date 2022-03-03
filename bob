@@ -30,7 +30,7 @@
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.nightsgame.tips",
+		"package_name": "com.playabc.icescream6",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
@@ -39,24 +39,27 @@
 		"message": "Privacy Policy Message",
 		"url": "https://termly.io/privacy-policy/"
 	},
-	"GuideContent": [{
-			"title": "Five Nights at Freddy's",
-			"description": "Fans hungry for fresh Five Nights at Freddy's lore can sink their teeth into this massive guidebook packed with mythology, gameplay, and secrets to help unwind the twisted mysteries lurking behind the smiling face of Fazbear Entertainment. Delving into each game, players can map the animatronics' paths, learn how timed elements of the games work, and discover how to trigger unique events. Special sections throughout highlight FNAF fans' most talked-about topics, from the alternate endings in Help Wanted and Curse of Dreadbear, to the new technology introduced in Fazbear Frights, "
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": "Ice Scream 6 Friends: Charlie est un jeu d'horreur à la première personne qui te permettra de retourner à la célèbre saga Keplerian. Cette fois, le personnage principal est Charlie, un jeune homme toujours perdu dans une usine étrange. Ta mission est de l'aider à s'échapper avant que le super robot ne l'attrape. " 
+},
+		{
+"title": "Guide 2",
+			"description": "Ice Scream 6 Friends: Charlie graphiques habituels en 3D et le même genre de bande sonore communément trouvé dans ces jeux. Grâce au point de vue à la première personne, c'est facile de sentir ce que Charlie ressent en découvrant de nouvelles pièces dans l'usine. Le Mini Rods sera toujours en observation. Occasionnellement, tu devras recourir au mode fantôme pour éviter d'être vue par tes ennemis. "
 		},
 		{
-			"title": "Media List",
-			"description": "The book is the same like the The Freddy Files books, except it was upgraded with new information, guides, and strategies related to the latest media like Help Wanted, Curse of Dreadbear, Special Delivery, and the Fazbear Frights series, along with other updated information. "
+"title": "Guide 3",
+"description": "Pour te déplacer utilise le D-pad à gauche de l'écran. Ici, tu trouveras aussi uen sélection de boutons d'action qui vont t'aider à changer la position du corps de Charlie ou ouvrir certaines trappes et portes. Il y a aussi un système d'indices que tu peux utiliser quand tu as du mal à trouver la sortie.  "
 		},
 		{
-			"title": "Games",
-			"description": "Five Nights  Freddy's - Pages 4 through 13Five Nights at Freddy's 2 - Pages 14 through 27 Five Nights at Freddy's 3 - Pages 28 through 4   Five Nights at Freddy's 4 - Pages 44 through Five Nights at Freddy's: Sister Location - Pages 56 through 71Freddy Fazbear's Pizzeria Simulator - Pages 72 through 93Ultimate Custom Night - Pages 94 through 113 Five Nights at Freddy's: Help Wanted - Pages 114 through 143 "
+"title": "Guide 4  ",
+"description": " Ice Scream 6 Friends: Charlie se déroule dans un monde horrible où tu vas te battre contre des créatures étranges en essayant d'aider Charlie à s'échapper. Ces amis ont déjà trouvé une sortie, maintenant c'est au tour du garçon de vivre des expériences terrifiantes pour quitter cet endroit sinistre.  "
 		},
 		{
-			"title": "Guide  ",
-			"description": "Fans won't want to miss this ultimate guide to Five Nights at Freddy’s -- bursting with theories, lore, and insights from the games, books, and more!This all-encompassing guidebook concentrates material from The Freddy Files (Updated Edition) and adds over 100 pages of new content exploring Help Wanted, Curse of Dreadbear, Fazbear Frights, the novel trilogy, and more!Fans hungry for fresh Five Nights at Freddy's lore can sink their teeth into this massive guidebook packed with mythology, gameplay, and secrets to help unwind "
-		},
-		{
-			"title": "Survive the nights",
-			"description": "The Nintendo Switch version allows you to select Cheats in the main menu. With these, you can choose whether or not to have Unlimited Power, Fast Nights, or Radar Map turned on. "
+"title": "Guide 5",
+"description": "guide for Ice Scream 6 is the best guide for beginners to understand the way of the game with ice scream 6 friends you freed your friends from the evil ice-cream seller Rod .But the Mini-Rods still looking for them in the factory. In this new chapter you will play as Mike and his friends face the Mini-Rods and the ice cream man. "
 		}
 	]
+}
