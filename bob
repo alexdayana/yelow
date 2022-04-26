@@ -2,9 +2,9 @@
 	"Ads": {
 		"AdMob": {
 			"activated": false,
-			"banner": " ca-app-pub-7522731665883717/4093249524",
-			"native": "ca-app-pub-7522731665883717/9864450953",
-			"interstitial": "ca-app-pub-7522731665883717/2780167858"
+			"banner": "ca-app-pub-7522731665883717/7707815037",
+			"native": "ca-app-pub-7522731665883717/2729168135",
+			"interstitial": "ca-app-pub-7522731665883717/5081651692"
 		},
 		"FAN": {
 			"activated": false,
@@ -39,6 +39,7 @@
 		"message": "Privacy Policy Message",
 		"url": "https://termly.io/privacy-policy/"
 	},
+
 
 	"GuideContent": [
 {
