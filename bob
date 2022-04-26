@@ -30,7 +30,7 @@
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.teamm.BabyInYellow",
+		"package_name": "com.scary.babyguide",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
